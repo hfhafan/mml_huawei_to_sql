@@ -13,6 +13,11 @@ MML to DB Uploader is a professional-grade application designed for processing H
 
 ## ✨ Features
 
+- Preview
+
+  <img width="1006" height="786" alt="image" src="https://github.com/user-attachments/assets/2d9c741f-4d1b-4f3f-95b8-00f2bdec9250" />
+
+
 ### 🔧 Core Functionality
 - **LST CELL Processing** - Advanced parsing and enrichment of cell configuration data
 - **VSWR Data Upload** - Efficient processing of VSWR measurement files
